@@ -1,0 +1,3 @@
+/home/kjk1/CmakeDemo/build/CMakeFiles/rebuild_cache.dir
+/home/kjk1/CmakeDemo/build/CMakeFiles/main.dir
+/home/kjk1/CmakeDemo/build/CMakeFiles/edit_cache.dir
